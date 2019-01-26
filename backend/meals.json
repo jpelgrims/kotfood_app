@@ -1,0 +1,438 @@
+[
+  {
+    "name": "Biefstuk met friet",
+    "image": "biefstukfriet.jpg",
+    "recipe": "Snij de aardappelen in grote lange stukken, bak ze in de pak tot ze bruin zijn. Snij de ui in kleine stukken en bak ze samen met de biefstuk. Serveer met verse sla en geraspte wortels. ",
+    "ingredients": [
+      {
+        "name": "biefstuk",
+        "measurement": "quantity",
+        "amount": 1
+      },
+      {
+        "name": "ui",
+        "measurement": "quantity",
+        "amount": 1
+      },
+      {
+        "name": "aardappel",
+        "measurement": "quantity",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Wok met rundvlees en groene curry",
+    "image": "groenecurry.jpg",
+    "recipe": "Snijd de geschilde aardappelen in blokjes van 1,5 cm en het vlees in dunne reepjes. Snijd de champignons in plakken en de broccoli in roosjes. Bak de aardappelen en het vlees op hoog vuur in een beetje sesamolie. Voeg na enkele minuten de champignons, broccoli en currypasta toe. Bak even op en bevochtig met de kokosmelk. Laat alles garen en breng op smaak met peper en zout. Werk af met de gesnipperde lente-ui en sojascheuten.",
+    "ingredients": [
+      {
+        "name": "aardappel",
+        "measurement": "quantity",
+        "amount": 7
+      },
+      {
+        "name": "rundvlees",
+        "measurement": "weight",
+        "amount": 200,
+        "unit": "gr"
+      },
+      {
+        "name": "broccoli",
+        "measurement": "quantity",
+        "amount": 1
+      },
+      {
+        "name": "champignons",
+        "measurement": "weight",
+        "amount": 200,
+        "unit": "gr"
+      },
+      {
+        "name": "ui",
+        "measurement": "quantity",
+        "amount": 2
+      },
+      {
+        "name": "groene currypaste",
+        "measurement": "volume",
+        "amount": 2,
+        "unit": "el"
+      },
+      {
+        "name": "kokosmelk",
+        "measurement": "volume",
+        "amount": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "sesamolie",
+        "measurement": "volume",
+        "amount": 3,
+        "unit": "el"
+      }
+    ]
+  },
+  {
+    "name": "Konijn in de wok",
+    "image": "konijnwok.jpg",
+    "recipe": "Snijd de konijnenfilets in fijne reepjes met een scherp mes (tip: dit gaat gemakkelijker als je ze eerst een tiental minuten invriest). Marineer de konijnreepjes in de sojasaus, de arachideolie, de suiker, de gesnipperde knoflook en de gember. Blancheer de boontjes 4 à 5 minuten in kokend gezouten water, verfris onmiddellijk onder koud stromend water. Hak de tomaten fijn en voeg ze weer bij het sap. Neem de konijnreepjes uit de marinade en bak ze aan in een wokpan met een weinig wokolie of arachideolie. Voeg de uien en de scampi’s toe en roerbak alles 4 a 5 minuten. Voeg de marinade en de tomaten toe en laat alles 3 a 4 minuten sudderen op een hevig vuur. Voeg tot slot de boontjes toe en laat ze mee opwarmen. Peper en zout naar smaak en dien op met rijst of noedels. Je kunt dit gerecht wat pittiger maken door een chilipepertje toe te voegen.",
+    "ingredients": [
+      {
+        "name": "Konijnenfilet",
+        "measurement": "quantity",
+        "amount": 6
+      },
+      {
+        "name": "Scampi",
+        "measurement": "quantity",
+        "amount": 12
+      },
+      {
+        "name": "bonen",
+        "measurement": "weight",
+        "amount": 200,
+        "unit": "gr"
+      },
+      {
+        "name": "ui",
+        "measurement": "quantity",
+        "amount": 2
+      },
+      {
+        "name": "sojasaus",
+        "measurement": "volume",
+        "amount": 2,
+        "unit": "el"
+      },
+      {
+        "name": "arachideolie",
+        "measurement": "volume",
+        "amount": 2,
+        "unit": "el"
+      },
+      {
+        "name": "suiker",
+        "measurement": "volume",
+        "amount": 1,
+        "unit": "el"
+      },
+      {
+        "name": "knoflook",
+        "measurement": "quantity",
+        "amount": 1
+      },
+      {
+        "name": "gember",
+        "measurement": "volume",
+        "amount": 1,
+        "unit": "el"
+      }
+    ]
+  },
+  {
+    "name": "Zuurkool stamppot",
+    "image": "zuurkoolstamppot.jpg",
+    "recipe": "Doe de aardappels met water in een grote pan en breng aan de kook. Voeg het bouillonblokje toe als het kookt en kook de aardappels in ca. 15 min gaar. Verwarm in een ander pannetje de zuurkool samen met de kruidnagels. Gebruik je verse zuurkool verwarm hem dan ongeveer 20 minuten, bij kant en klare gekookte zuurkool een paar minuten. Schil de appel en snijd in blokjes en voeg nog een paar minuten toe aan de zuurkool. Giet de aardappels af, vang het vocht op, en stamp fijn. Maak de puree smeuïg met de boter en het opgevangen vocht. Haal de kruidnagels uit de zuurkool en voeg de zuurkool toe aan de aardappelpuree en roer er doorheen. Serveer de zuurkoolstamppot met de warme rookworst.",
+    "ingredients": [
+      {
+        "name": "aardappel",
+        "measurement": "quantity",
+        "amount": 12
+      },
+      {
+        "name": "kruidnagels",
+        "measurement": "quantity",
+        "amount": 4
+      },
+      {
+        "name": "zuurkool",
+        "measurement": "weight",
+        "unit": "gr",
+        "amount": 500
+      },
+      {
+        "name": "bouillonblokje",
+        "measurement": "quantity",
+        "amount": "1"
+      },
+      {
+        "name": "rookworst",
+        "measurement": "quantity",
+        "amount": "2"
+      },
+      {
+        "name": "appel",
+        "measurement": "quantity",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Chili con carne",
+    "image": "chili.jpg",
+    "recipe": "Snij de paprika, de pepers en de wortels in stukken. Doe ze in een pot samen met de tomatensaus en laat sudderen. Bak ondertussen het gehakt en voeg het toe aan de pot eens klaar. Laat even koken en serveer dan met wat stokbrood.",
+    "ingredients": [
+      {
+        "name": "rode paprika",
+        "measurement": "quantity",
+        "amount": 2
+      },
+      {
+        "name": "rode bonen",
+        "measurement": "weight",
+        "amount": 300,
+        "unit": "gr"
+      },
+      {
+        "name": "gehakt",
+        "measurement": "weight",
+        "amount": 1000,
+        "unit": "gr"
+      },
+      {
+        "name": "tomatensaus",
+        "measurement": "volume",
+        "amount": 1,
+        "unit": "l"
+      },
+      {
+        "name": "chilipeper",
+        "measurement": "quantity",
+        "amount": 3
+      },
+      {
+        "name": "wortels",
+        "measurement": "quantity",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Schnitzel met krieltjes en kerrie-bloemkool",
+    "image": "schnitzel.jpg",
+    "recipe": "Verwarm de oven voor op 200 °C. Maak de bloemkool schoon, snijd in roosjes en doe in een ruime ovenschaal. Bestrooi de bloemkoolroosjes met de kerriepoeder. Besprenkel de roosjes met 2 el olie (per 4 personen) en rooster de bloemkool ca. 20 min. in de oven. Verhit 1 el olie (per 4 personen) in een koekenpan en bak de krieltjes in 12 min. goudbruin en gaar. Schep regelmatig om. Verhit de rest van de olie in een koekenpan. Bak de varkensschnitzels in 6 min. gaar. Keer halverwege.",
+    "ingredients": [
+      {
+        "name": "bloemkool",
+        "measurement": "quantity",
+        "amount": 1
+      },
+      {
+        "name": "kerriepoeder",
+        "measurement": "volume",
+        "unit": "tl",
+        "amount": 2
+      },
+      {
+        "name": "zonnebloemolie",
+        "measurement": "volume",
+        "amount": "7",
+        "unit": "el"
+      },
+      {
+        "name": "krieltjes",
+        "measurement": "weight",
+        "amount": 600,
+        "unit": "gr"
+      },
+      {
+        "name": "varkensschnitzel",
+        "measurement": "quantity",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Zomersla",
+    "image": "zomersla.jpg",
+    "recipe": "Voeg de gerechten samen naar wens. De eieren kan je best eerst koken.",
+    "ingredients": [
+      {
+        "name": "sla",
+        "measurement": "quantity",
+        "amount": 1
+      },
+      {
+        "name": "kerstomaatjes",
+        "measurement": "weight",
+        "amount": 300,
+        "unit": "gr"
+      },
+      {
+        "name": "tonijn in blik",
+        "measurement": "quantity",
+        "amount": "1"
+      },
+      {
+        "name": "perzik",
+        "measurement": "quantity",
+        "amount": 1
+      },
+      {
+        "name": "ananas",
+        "measurement": "weight",
+        "amount": 300,
+        "unit": "gr"
+      },
+      {
+        "name": "ei",
+        "measurement": "quantity",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Pytt i panna",
+    "image": "pyttipanna.jpg",
+    "recipe": "Snij alle ingrediënten in vierkante blokjes, bak ze samen in de pan met een gulle hoeveelheid boter. Serveer met een ei gebakken in de pan.",
+    "ingredients": [
+      {
+        "name": "kipfilet",
+        "measurement": "quantity",
+        "amount": 2
+      },
+      {
+        "name": "paprika",
+        "measurement": "quantity",
+        "amount": 1
+      },
+      {
+        "name": "wortels",
+        "measurement": "quantity",
+        "amount": 2
+      },
+      {
+        "name": "ui",
+        "measurement": "quantity",
+        "amount": 1
+      },
+      {
+        "name": "aardappelen",
+        "measurement": "quantity",
+        "amount": 6
+      },
+      {
+        "name": "ei",
+        "measurement": "quantity",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "name": "Gemarineerde kip met brocolli en rijst",
+    "image": "gemarineerdekip.jpg",
+    "recipe": "Bak de kip in de pan tot deze goed bruin ziet. Bereid de brocolli voor en kook deze 10 minuten lang. De rijst mag ook 10 minuten koken.",
+    "ingredients": [
+      {
+        "name": "gemarineerde kip",
+        "measurement": "quantity",
+        "amount": 2
+      },
+      {
+        "name": "rijst",
+        "measurement": "weight",
+        "amount": 400,
+        "unit": "gr"
+      },
+      {
+        "name": "brocolli",
+        "measurement": "quantity",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Croque monsieur",
+    "image": "croque.jpg",
+    "recipe": "Maak een boterham en stop hem in het bakijzer. Breng op smaak met mayonnaise en ketchup.",
+    "ingredients": [
+      {
+        "name": "brood",
+        "measurement": "quantity",
+        "amount": 1
+      },
+      {
+        "name": "kaas",
+        "measurement": "weight",
+        "amount": 200,
+        "unit": "gr"
+      },
+      {
+        "name": "hesp",
+        "measurement": "weight",
+        "amount": 200,
+        "unit": "gr"
+      },
+      {
+        "name": "ketchup",
+        "measurement": "quantity",
+        "amount": 1
+      },
+      {
+        "name": "mayonnaise",
+        "measurement": "quantity",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Braadkip met appel",
+    "image": "braadkipappel.jpg",
+    "recipe": "Snij de aardappelen in kleine blokjes en bak ze. Snij de appels in schijven en bak ze ook. Serveer samen met de braadkip. Appelmoes gaat ook.",
+    "ingredients": [
+      {
+        "name": "braadkip",
+        "measurement": "quantity",
+        "amount": 1
+      },
+      {
+        "name": "aardappel",
+        "measurement": "quantity",
+        "amount": 8
+      },
+      {
+        "name": "appel",
+        "measurement": "quantity",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "name": "Hamburger met frieten",
+    "image": "hamburgerfrieten.jpg",
+    "recipe": "Snij frieten uit de aardappelen en bak ze in de oven. Bak ondertussen ook de hamburger(s) in de pan. Op het einde mag het hamburgerbroodje ook even in de pan tot deze goed krokrant is. Beleg de hamburger met cheddarkaas. Serveer met sla en tomaat.",
+    "ingredients": [
+      {
+        "name": "aardappel",
+        "measurement": "quantity",
+        "amount": 6
+      },
+      {
+        "name": "hamburer",
+        "measurement": "quantity",
+        "amount": 4
+      },
+      {
+        "name": "hamburgerbrood",
+        "measurement": "quantity",
+        "amount": 4
+      },
+      {
+        "name": "cheddarkaas",
+        "measurement": "quantity",
+        "amount": 4
+      },
+      {
+        "name": "sla",
+        "measurement": "quantity",
+        "amount": 1
+      },
+      {
+        "name": "tomaat",
+        "measurement": "quantity",
+        "amount": 2
+      }
+    ]
+  }
+]

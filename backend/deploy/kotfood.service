@@ -1,0 +1,11 @@
+[Unit]
+Description=Kotfood REST API service at port 5000
+After=multi-user.target
+
+[Service]
+Type=idle
+WorkingDirectory=/opt/kotfood
+ExecStart=/usr/bin/python3 /opt/kotfood/app.py
+
+[Install]
+WantedBy=multi-user.target

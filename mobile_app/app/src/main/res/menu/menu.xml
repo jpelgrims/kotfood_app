@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.jpelgrims.kotfood.MainActivity">
+
+    <item
+        android:id="@+id/meals_menu_item"
+        android:title="meals"
+        android:orderInCategory="2"
+        android:icon="@drawable/meals_icon"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/shoppinglist_menu_item"
+        android:title="shoppinglist"
+        android:orderInCategory="3"
+        android:icon="@drawable/shoppinglist_icon"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/settings_menu_item"
+        android:title="settings"
+        android:orderInCategory="4"
+        android:icon="@drawable/settings_icon"
+        app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4c7f9f</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#eb286f</color>
+    <color name="Grey">#282828</color>
+    <color name="cardviewcolor">#202020</color>
+    <color name="backgroundColorCard">#b61f56</color>
+    <color name="cardTextColor">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="positiveButtonBg">#2e8323</color>
+    <color name="black">#000000</color>
+    <color name="gray">#a9a9a9</color>
+</resources>
